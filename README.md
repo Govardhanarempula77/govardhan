@@ -92,6 +92,9 @@ new_df['solar_suitable'].describe()
 <img width="940" height="323" alt="image" src="https://github.com/user-attachments/assets/a571cc64-243b-40b5-9c73-a55a6f58f216" />
 <img width="940" height="423" alt="image" src="https://github.com/user-attachments/assets/72777eb6-e564-4cf8-9a82-c003d13558e4" />
 <img width="940" height="659" alt="image" src="https://github.com/user-attachments/assets/4e0695d0-4059-468f-aaa1-0bb716c9aaa9" />
+<img width="940" height="889" alt="image" src="https://github.com/user-attachments/assets/471beb04-eed5-4d21-a8d3-b2ed4def5fcb" />
+# Power BI dasboard
+
 
 
 
