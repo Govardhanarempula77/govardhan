@@ -83,6 +83,8 @@ new_df['solar_suitable']=np.select(conditions,choices,default='low')
 new_df['solar_suitable'].value_counts().plot.pie(autopct="%1.1f%%")
 # In[40]:
 new_df['solar_suitable'].describe()
+<img width="940" height="573" alt="image" src="https://github.com/user-attachments/assets/f18a7076-aa87-428e-b86c-06b3171e7fa8" />
+
 # data visualization
 
 # Outlier detection
@@ -93,6 +95,14 @@ new_df['solar_suitable'].describe()
 <img width="940" height="423" alt="image" src="https://github.com/user-attachments/assets/72777eb6-e564-4cf8-9a82-c003d13558e4" />
 <img width="940" height="659" alt="image" src="https://github.com/user-attachments/assets/4e0695d0-4059-468f-aaa1-0bb716c9aaa9" />
 <img width="940" height="889" alt="image" src="https://github.com/user-attachments/assets/471beb04-eed5-4d21-a8d3-b2ed4def5fcb" />
+<img width="940" height="438" alt="image" src="https://github.com/user-attachments/assets/25f3f979-fed9-42d6-a370-d0e573f774a0" />
+<img width="940" height="603" alt="image" src="https://github.com/user-attachments/assets/eba4c9fd-f786-4252-aa75-2c5f6d246d44" />
+#The significance of the Machine Learning model for data exploration in predicting property suitability for solar energy is used to get accurate results in predicting different types of properties are most suitable to install solar PVs. There is need to provide an intelligent model to detect the property suitability for solar PVs installation.
+1.	The training dataset is given to the machine learning model so that it may be trained on it in order to become a model, and the test dataset is given to it so that it can be tested in order to validate the model. 
+2.	To forecast the rooftop solar suitability, simulations are run using the python programming using a variety of libraries. 
+3.	The outcome of the simulation demonstrates that the proposed strategy outperforms the other methods in terms of prediction accuracy rate. 
+4.	The simulation's findings demonstrate that the proposed method outperforms the other methods in terms of prediction accuracy, achieving a rate of 94%.
+
 # Power BI dasboard
 
 https://github.com/Govardhanarempula77/Prediction-of-Roof-top-suitability-for-Solar-PVs-using-Machine-learning-model/blob/main/Solar_PV_predictiopn%20dashboard.pdf
